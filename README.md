@@ -66,7 +66,6 @@ pip install -r requirements.txt
 ```bash
 conda create -n verl python=3.10
 conda activate verl
-cd eval
 pip install -r ./training/rl/requirements.txt
 ```
 </p>
