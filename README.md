@@ -64,7 +64,10 @@ pip install -r requirements.txt
 <p>
 
 ```bash
-#TODO: add RL scripts
+conda create -n verl python=3.10
+conda activate verl
+cd eval
+pip install -r ./training/rl/requirements.txt
 ```
 </p>
 
@@ -72,7 +75,8 @@ pip install -r requirements.txt
 <p>
 
 ```bash
-#TODO: add RL scripts
+bash training/rl/scripts/llama_3b_long.sh
+# bash training/rl/scripts/llama_3b_hybrid.sh
 ```
 </p>
 
