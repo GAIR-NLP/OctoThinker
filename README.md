@@ -119,6 +119,6 @@ If you find this work useful, please cite:
   author={Wang, Zengzhi and Zhou, Fan and Li, Xuefeng and Liu, Pengfei},
   year={2025},
   journal={arXiv preprint arXiv:2506.20512},
-  note={Preprint}
+  url={https://arxiv.org/abs/2506.20512}
 }
 ```
